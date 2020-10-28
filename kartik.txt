@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 fddsfdsfdsfdsfdsfsdfsdfsdf
+=======
+fddsfdsfdsfdsfdsfsdfsdfsdf These are new changes for other branch...
+>>>>>>> b27e5abf6fc363646135c31ee9a933ce74d13baa
